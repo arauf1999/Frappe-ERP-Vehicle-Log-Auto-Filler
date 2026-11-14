@@ -1,4 +1,4 @@
-# Vehicle Log Auto Import Assistant (draft-only)
+# Vehicle Log Auto Import Assistant
 
 ## What it does
 - Reads `.xlsx` locally in the extension popup (no external SheetJS dependency).
