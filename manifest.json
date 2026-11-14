@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Vehicle Log Auto Import Assistant",
+  "version": "0.2.0",
+  "description": "Reads a vehicle log workbook and maps it to the open Frappe form for draft-only import with read-back verification.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "action": {"default_popup": "popup.html", "default_title": "Vehicle Log Auto Import"}
+}
